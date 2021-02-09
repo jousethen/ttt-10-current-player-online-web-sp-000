@@ -1,0 +1,2 @@
+def turncount(board)
+end
