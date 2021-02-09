@@ -9,6 +9,7 @@ def turn_count(board)
   return counter
 end
 
+# calculate which players turn it is based on turn count being even or od
 def current_player(board)
   turn = turn_count(board)
   
